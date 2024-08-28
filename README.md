@@ -28,6 +28,3 @@ Download the zip file of this codebase & start writing your APIs 🎉.
 
 <br>
 
-## License
-
-[MIT](/LICENSE)
