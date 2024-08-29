@@ -19,7 +19,7 @@ There are many boilerplates available on the internet which providers a server a
 - **Environment variables** can be easily added in file `.env` using library like [dotenv](https://www.npmjs.com/package/dotenv).
 - **Logging** support using libraries like [winston](https://www.npmjs.com/package/winston) & [morgan](https://www.npmjs.com/package/morgan)
 - **Prettier & ESlint** added so that your code looks & feels consistent.
-
+- **Authentication support using JWT** (JSON Web Tokens) for secure and scalable user authentication and authorization.
 <br>
 
 ## How To Use It
